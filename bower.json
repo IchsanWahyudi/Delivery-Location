@@ -1,0 +1,16 @@
+{
+  "name": "telkomsel",
+  "authors": [
+    "IchsanWahyudi <ichsan2993@gmail.com>"
+  ],
+  "description": "dance competition telkomsel",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "font-awesome": "^4.7.0",
+    "select2": "^4.0.3"
+  }
+}
